@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1c654ceA0EaD60453774A5a2d52E9aC418694a74",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x1c654cea0ead60453774a5a2d52e9ac418694a74",
+  "NETWORK": {
+    "NAME": "Goerli Test Network",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Flunny",
+  "SYMBOL": "FL",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/flunny-v4",
+  "SHOW_BACKGROUND": true
+}
